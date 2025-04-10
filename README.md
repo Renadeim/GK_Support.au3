@@ -1,0 +1,1 @@
+# GK_Support.au3
